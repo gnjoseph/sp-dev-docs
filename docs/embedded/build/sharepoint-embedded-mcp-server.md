@@ -84,8 +84,8 @@ Add the server to `%APPDATA%\Claude\claude_desktop_config.json` (Windows) or `~/
 Add the server from a terminal:
 
 ```console
-claude mcp add spe -- npx -y @microsoft/spe-mcp start
-codex mcp add spe -- npx -y @microsoft/spe-mcp start
+claude mcp add spe -- npx -y @microsoft/spe-mcp start --install-source microsoft-learn --install-content sharepoint-embedded-mcp-server --install-campaign docs-install-buttons
+codex mcp add spe -- npx -y @microsoft/spe-mcp start --install-source microsoft-learn --install-content sharepoint-embedded-mcp-server --install-campaign docs-install-buttons
 ```
 
 ### Cursor and other MCP clients

@@ -26,7 +26,7 @@ This article starts the build journey. For more billing guidance, see [Create an
 > [!TIP]
 > To build through a coding agent, install the SharePoint Embedded Model Context Protocol (MCP) server.
 
-[!INCLUDE [Install the SharePoint Embedded MCP server](../includes/mcp-install-buttons.md)]
+[!INCLUDE [Install the SharePoint Embedded MCP server](../includes/mcp-install-buttons-quickstart-vscode.md)]
 
 ## Prerequisites
 

@@ -25,7 +25,7 @@ Complete [Configure authentication and authorization](configure-authentication-a
 
 To manage the container lifecycle through a coding agent, install the SharePoint Embedded Model Context Protocol (MCP) server.
 
-[!INCLUDE [Install the SharePoint Embedded MCP server](../includes/mcp-install-buttons.md)]
+[!INCLUDE [Install the SharePoint Embedded MCP server](../includes/mcp-install-buttons-create-manage-containers.md)]
 
 ## Understand containers
 
